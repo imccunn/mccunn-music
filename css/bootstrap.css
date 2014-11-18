@@ -16,68 +16,6 @@
 /*Added by Mr. McCunn--------------------------------------*/
 
 
-/*CV********/
-
-.cv {
-  background-color: #C4C4C4;
-}
-
-.cvSection {
-  margin-top: 30px;
-  background-color: #C4C4C4;
-}
-
-.cvSection div div:nth-child(1) {
-  width: 250px;
-}
-
-.cvSection div div:nth-child(1) h2 {
-  margin-top: 0;
-  line-height: 28px;
-}
-
-.cvSection div div:nth-child(2) h5, 
-.cvSection div div:nth-child(2) h4 {
-  margin-top: 0;
-}
-
-.technicalList li {
-  display: inline;
-  list-style-type: none;
-}
-
-.technicalList li::after {
-  content: ' /';
-}
-
-.contactText p {
-  font-size: 1.1em;
-}
-
-.contactExternal {
-  margin-top: 20px;
-}
-.contactExternal ul {
-  list-style-type: none;
-
-}
-
-.contactExternal ul li {
-  line-height: 40px;
-  font-size: 1.1em;
-  text-indent: -38px;
-}
-
-.contactExternal ul li a {
-  margin-left: 20px;
-}
-
-.introPanel {
-  background-color: rgba(0,0,0,0); 
-  margin-bottom: 25px; 
-  margin-top: 25px;
-}
-
 .digitalPresence {
   float: right; 
   margin-top: 10px;
