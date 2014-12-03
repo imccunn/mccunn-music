@@ -2,7 +2,7 @@
 
 	//Handle Workslist Clicks for 'catalog.html' control
 	$(document).on('click', '.compExLnk', function() {
-		console.log('thing clicked');
+
 		//Find composition opus number, which is also file identifier
 		var page = $(this).parent().parent().children('.comp-op').text();
 
