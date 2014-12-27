@@ -821,9 +821,9 @@ body {
   font-size: 12px;
   line-height: 1.428571429;
   color: #222222;
-  background-color: #F0F0F0;
+  background-color: #fff;
 
-  background-image: url('../img/N2.jpg');
+  /*background-image: url('../img/N2.jpg');*/
 
   position: -120px;
   background-repeat: no-repeat;
